@@ -1,7 +1,7 @@
 # Welcome to MNB Software
 
-This organization is the home for our products, [support]() and
-[documentation]().
+This organization is the home for our products, support and
+documentation.
 
 ### Products
 
