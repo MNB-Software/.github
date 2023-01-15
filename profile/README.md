@@ -5,4 +5,4 @@ documentation.
 
 ### Products
 
-* [Aegis](https://github.com/MNB-Software/Aegis) - Open Source Admin and User UI for Duande Identity Server 6
+* [Aegis](https://github.com/MNB-Software/Aegis) - Open Source Admin and User UI for [Duende Identity Server 6](https://github.com/DuendeSoftware/IdentityServer)
